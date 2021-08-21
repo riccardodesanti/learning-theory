@@ -2,7 +2,7 @@
 ## Markov Chain Monte Carlo Sampling
 <img align="right" height="110" src="https://github.com/riccardodesanti/learning-theory/blob/main/images/sampling_2.png"></img>
 <img align="right" height="110" src="https://github.com/riccardodesanti/learning-theory/blob/main/images/sampling_1.png"></img>
-This project explores several [MCMC sampling procedures](https://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf) and applies them to the image denoising problem by assuming an underlying Ising model, and to a combinatorial optimization problem, namely TSP.
+This project explores several [MCMC sampling procedures](https://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf) and applies them to (1) the image denoising problem by assuming an underlying Ising model, and (2) to a combinatorial optimization problem, namely TSP.
 <br/><br/>
 ## Deterministic Annealing
 <img align="right" height="110" src="https://github.com/riccardodesanti/learning-theory/blob/main/images/DA_1.png"></img>
