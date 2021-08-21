@@ -15,4 +15,4 @@ This project explores a tecnhique called Constant Shift Embedding which embeds p
 <br/><br/>
 ## Mean Field Approximation
 <img align="right" height="110" src="https://github.com/riccardodesanti/learning-theory/blob/main/images/mean_field_1.png"></img>
-This code applies MFA in two settings: (1) the 2D Ising model for image denoising, and (2) to solve Smooth-K-means, a slighly different version of K-means, in which smoothness constraints on the solution space make the problem combinatorially harder.
+This code applies MFA, as introduced in [An Introduction to Variational Methods for Graphical Models](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf), to two problem settings: (1) the 2D Ising model for image denoising, and (2) to solve Smooth-K-means, a slighly different version of K-means, in which smoothness constraints on the solution space make the problem combinatorially harder.
